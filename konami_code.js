@@ -30,5 +30,11 @@ function onKeyDownHandler(e) {
     index = 0;
   }
 }
-const main = 
+const main = document.getElementById
+
+////const main = document.getElementById('main');
+ 
+///main.addEventListener('click', function(event) {
+  ////alert('I was clicked!');
+});
 }
