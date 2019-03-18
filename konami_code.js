@@ -30,11 +30,8 @@ function onKeyDownHandler(e) {
     index = 0;
   }
 }
-const main = document.getElementById
 
-////const main = document.getElementById('main');
- 
-///main.addEventListener('click', function(event) {
-  ////alert('I was clicked!');
+document.body.addEventListener('keydown', function(event) {
+  ////alert('');
 });
 }
